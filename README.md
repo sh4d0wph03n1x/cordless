@@ -2,6 +2,10 @@
 
 Hey all, I feel very strongly about this project and believe that what Discord did to it was stupid and pointless. Personally, I know absolutely nothing about Go (I am a C/Assembly programmer), and I am leaving for the military in 2 weeks from now (current date: 7/16/21) so I don't know when I'll actually get th time to do work on it, but I will absolutely do my best. I'll learn as I go, and will do every thing I can, because screw Discord, that's why.
 
+# BE WARNED
+
+## For using this software, Discord can and possibly will ban you for violating ToS. Use at your own risk, and I assume no liability if this is the case.
+
 <h1 align="center">Cordless</h1>
 
 <p align="center">
