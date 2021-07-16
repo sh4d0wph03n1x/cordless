@@ -1,6 +1,6 @@
-# I AM GOING TO (ATTEMPT TO) REVIVE THIS PROJECT!
+# THIS IS MY LOCAL DEV FORK OF CORDLESS
 
-Hey all, I feel very strongly about this project and believe that what Discord did to it was stupid and pointless. Personally, I know absolutely nothing about Go (I am a C/Assembly programmer), and I am leaving for the military in 2 weeks from now (current date: 7/16/21) so I don't know when I'll actually get th time to do work on it, but I will absolutely do my best. I'll learn as I go, and will do every thing I can, because screw Discord, that's why.
+This is for fun and for me to learn a bit about Discord APIs and golang. If you are looking for a maintained version of cordless, you can certainly use this, but I reccomend <a href="https://github.com/yellowsink/gord">Yellowsink's fork named gord</a>
 
 # BE WARNED
 
